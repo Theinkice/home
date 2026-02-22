@@ -25,13 +25,8 @@
     "link": "https://nav.dsriji.com/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://ping.dsriji.com/"
   }
 ]
