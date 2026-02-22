@@ -24,12 +24,6 @@
     "url": "admin@dsriji.com"
   },
   {
-    "name": "博客",
-    "icon": "/images/icon/blog.png",
-    "tip": "你懂的 ~",
-    "url": "http://blog.dsriji.com/"
-  },
-  {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
     "tip": "你懂的 ~",
